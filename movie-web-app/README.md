@@ -4,7 +4,7 @@ A modern, responsive movie exploration web application built with React.js that 
 
 ## 🚀 Live Demo
 
-- **Live App**: [Deploy and add your URL here]
+- **Live App**: movie-explorer-app-drab.vercel.app
 - **GitHub Repository**: https://github.com/gauravgarg143/movie-explorer-app.git
 
 ## ✨ Features
