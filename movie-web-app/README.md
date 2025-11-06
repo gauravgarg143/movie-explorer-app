@@ -5,7 +5,7 @@ A modern, responsive movie exploration web application built with React.js that 
 ## 🚀 Live Demo
 
 - **Live App**: [Deploy and add your URL here]
-- **GitHub Repository**: [Your GitHub URL here]
+- **GitHub Repository**: https://github.com/gauravgarg143/movie-explorer-app.git
 
 ## ✨ Features
 
